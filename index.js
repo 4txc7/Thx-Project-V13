@@ -20,4 +20,4 @@ module.exports = client;
 client.commands = new Collection();
 client.slashCommands = new Collection();
 require("./handler")(client);
-client.login("") // توكن البوت ولو تبي تحطه فالقفل : clinet.login(process.env.token);
+client.login("ODkxOTUxMDYxNTg4NDAyMjM2.G2kkjg.URD9HqCL9fwJpUJaTh2Zlb0MulfOQPiCHouSqQ") // توكن البوت ولو تبي تحطه فالقفل : clinet.login(process.env.token);
